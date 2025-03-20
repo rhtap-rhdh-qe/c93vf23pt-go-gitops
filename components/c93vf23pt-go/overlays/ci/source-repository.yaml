@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: c93vf23pt-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/c93vf23pt-go
